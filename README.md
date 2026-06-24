@@ -68,7 +68,6 @@ Currently practicing and learning:
 
 More solutions and topics will be added regularly as I continue my learning journey.
 
----
 
 **Author:** Uma Surya Teja
 **LinkedIn:** https://www.linkedin.com/in/umasuryateja/
