@@ -64,7 +64,7 @@ Currently practicing and learning:
 * Strings
 * Basic Algorithms
 * SQL Queries
-* Interview Coding Patterns
+* Interview Coding Patterns.
 
 More solutions and topics will be added regularly as I continue my learning journey.
 
