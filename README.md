@@ -40,7 +40,7 @@ leetcode-practice/
 * Improve coding logic and analytical thinking
 * Master Data Structures and Algorithms
 * Prepare for coding interviews and placement tests
-* Maintain consistency through daily practice
+* Maintain consistency through daily practice.
 
 ## Languages Used
 
