@@ -7,4 +7,5 @@ class Solution:
             temp = curr
             curr = prev + curr
             prev = temp
+            
         return curr
