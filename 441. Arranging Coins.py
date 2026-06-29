@@ -7,6 +7,7 @@ class Solution:
                 n =n-i
                 if n<0:
                     break
+                    
             return i -1 
         
         
