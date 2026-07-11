@@ -66,7 +66,7 @@ Currently practicing and learning:
 * SQL Queries
 * Interview Coding Patterns.
 
-More solutions and topics will be added regularly as I continue my learning journey.
+More solutions and topics will be added regularly as I continue my learning journey
 
 
 **Author:** Uma Surya Teja
