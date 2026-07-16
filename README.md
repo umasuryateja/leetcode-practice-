@@ -1,6 +1,6 @@
 # LeetCode Practice Solutions
 
-Welcome to my LeetCode problem-solving repository.
+Welcome to my LeetCode problem-solving repository
 
 This repository contains my solutions to LeetCode problems using **Python** and **SQL**. I created this repository to improve my problem-solving skills, strengthen data structures and algorithms concepts, and prepare for technical interviews and coding assessments.
 
