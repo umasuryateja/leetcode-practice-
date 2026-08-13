@@ -45,7 +45,7 @@ leetcode-practice/
 ## Languages Used
 
 * Python
-* SQL
+* SQL.
 
 ## Progress
 
