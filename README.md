@@ -20,7 +20,7 @@ This repository contains my solutions to LeetCode problems using **Python** and 
 * Recursion
 * Dynamic Programming
 * Bit Manipulation
-* SQL.
+* SQL
 
 ## Repository Structure
 
